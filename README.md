@@ -1,7 +1,7 @@
 
 ![alt text](projeto.jpg)
 
-# Cadastro-Funcionarios-JAVA
+# Cadastro-Funcionarios - JAVA
 
 Componentes utizados
 - DataPicker
