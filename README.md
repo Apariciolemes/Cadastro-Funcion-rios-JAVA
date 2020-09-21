@@ -1,19 +1,22 @@
 
 ![alt text](projeto.jpg)
 
-# Cadastro-Funcionarios - JAVA
+# Cadastro-Funcionarios
 
-Componentes utizados
+## Componentes utizados - JavaFX
 - DataPicker
 - Label
 - AnchorPane
 - TextField
 - Button
 
-Funcionalides 
+## Funcionalides 
 
 - Criar novo funcionário
 - Deletar funcionário pelo ID
 - Editar Funcionário pelo ID
 - Excluir funcionário pelo ID
 
+## Banco de Dados utilizado
+
+- HSQLDB
